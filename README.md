@@ -1,22 +1,22 @@
 ## Screenshots
+![Screenshot](https://user-images.githubusercontent.com/84324251/143720596-e2c99b95-95ca-4c51-b549-26e7584ef4d5.png)
 
 
-# Screen Mirroring
+# React Portfolio
 
-This website is a front end project that that incorporates HTML, CSS and Javascript. 
-On this website the user is able to select a screen they want to mirror when they load the site.
-Once they have selected the screen the user is able to press the large start button, this
-will create a small screen that the user is able to move anywhere on their screen and resize. 
+This website is a front end project that that incorporates React and CSS.
+It holds my four most curent projects and the projects are rotated out as I 
+create more. 
 
 ## 🛠 Skills
-- HTML
+- React 
 - CSS
-- JavaScript
+- Netlify Deployment
 
 
 ## Link
 
-[Screen Mirroring](https://qmkduran.github.io/Screen-Mirroring/)
+[Screen Mirroring](https://pedantic-wright-e43044.netlify.app/)
 ## Authors
 
 - [@qmkDuran](https://github.com/qmkDuran)
@@ -24,5 +24,5 @@ will create a small screen that the user is able to move anywhere on their scree
 
 ## Lessons Learned
 
-- How to use HTML, CSS and JavaScipt.
-- How to use the Media Stream API and Screen Capturing API. 
+- How to use React and CSS
+- How to use Netlify to deploy the website. 
