@@ -2,7 +2,7 @@ import "./about.css"
 
 const About = () => {
     return (
-        <div className="a">
+    <div className="a">
         <div className="a-texts">
             <h1 className="a-title">About Me</h1>
                 <p className="a-desc">
@@ -18,12 +18,12 @@ const About = () => {
                 <p className="a-desctwo">
                 React, Node, Express, MongoDB
                 </p>
-            <div class="scroll-downs">
+        </div>
+        <div class="scroll-downs">
             <div class="mousey">
                 <div class="scroller"></div>
             </div>
             </div>
-        </div>
     </div>
 
     )

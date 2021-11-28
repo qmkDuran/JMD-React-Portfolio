@@ -14,11 +14,18 @@ const ProductList = () => {
             <div className="pl-texts">
                 <h1 className="pl-title">Latest Creations</h1>
                 <p className="pl-desc">
-                    Below are my most recent projects, the first project on the left is a blog where you can post
-                    images and write a description. The project to the right of it, is an E-commerce store design for winter coats. 
-                    Than their is my pink friend the robot who tells you developer jokes and hopefully he is behaving himself today. 
-                    The last project on the right is a screen mirror application. This application lets you create a mini screen of any 
-                    displays that you have connected and move it around. 
+                    Below are my most recent projects, the first project is the 
+                    <a class="blue" href="https://github.com/qmkDuran/Instaverse" target="_blank"> Instaverse Blog (Github Repo) </a>,
+                    where you can post images and write a description for that image. 
+                    
+                    The project with a woman in a gray coat, is an <a class="blue" href="https://github.com/qmkDuran/E-Commerce-Site" target="_blank"> E-commerce Store Design (Github Repo) </a> 
+                    that sells winter coats. 
+                    
+                    Than their is my <a class="blue" href="https://github.com/qmkDuran/Joke-Generator" target="_blank">Pink Friend (Github Repo) </a> 
+                    the robot who tells you developer jokes and hopefully he is behaving himself today. 
+                    
+                    The last project at the bottom is a <a class="blue" href="https://github.com/qmkDuran/Joke-Generator" target="_blank">Screen Mirror Application (Github Repo). </a> 
+                    This application lets you create a mini screen of any displays that you have connected and move it around. 
                 </p>
             </div>
             <div className="pl-list">
@@ -61,7 +68,7 @@ const ProductList = () => {
                     <a href="https://qmkduran.github.io/Screen-Mirroring/" target="_blank" rel="noreference">
                         <img src={Img04} alt="" className="p-img" />
                     </a>
-                </div>  
+                </div>   
             </div>
         </div>
     )

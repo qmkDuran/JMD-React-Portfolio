@@ -48,7 +48,7 @@ function Contact() {
                     </div>
                 </div>
                 <div className="c-right">
-                    <h3 className="c-desc">Reach Out</h3>
+                <h1 className="c-desc">Reach Out</h1>
                     <form ref={formRef} onSubmit={handleSubmit}>
                         <input type="text" placeholder="Name" name="user_name" />
                         <input type="text" placeholder="Subject" name="user_subject" />
@@ -59,7 +59,6 @@ function Contact() {
                     </form>
                 </div>
             </div>
-                              <p>© 2021. Designed and developed by Michael Duran.</p>
         </div>
     )
 }

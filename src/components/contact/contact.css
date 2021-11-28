@@ -19,6 +19,7 @@
 .c-wrapper {
     padding: 50px;
     display: flex;
+    padding-bottom: 50px;
 }
 
 .c-left {
@@ -27,14 +28,11 @@
 
 .c-right {
     flex:1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    margin-top: 3rem;
 }
 
 svg {
-    width: 3%;
+    width: 4%;
 }
 
 a {
@@ -80,69 +78,13 @@ font-weight: 500;
 cursor: pointer;
 }
 
-p {
-   margin-top: 20rem ;
-   text-align: center;
-   letter-spacing: 0.1px;
-   font-size: 1.1rem;
-}
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .c {
         height: 100vh;
     }
 
-    .c-left {
-        margin-bottom: 3rem;
-    }
 
-    .c-wrapper {
-        flex-direction: column;
-    }
-
-    .c-title {
-        font-size: 70px;
-        margin-bottom: 2rem;
-    }
-
-    svg {
-        width: 5%;
-    }
-
-    .c-info-item {
-        margin: 20px 0px;
-        width: 100%;
-    }
-
-    form {
-       display: flex;
-       flex-wrap: wrap;
-    }
-    
-    h3 {
-        margin-right: 35rem;
-    }
-    
-    button {
-        margin-top: 10px;
-    }
-
-    textarea {
-        width: 100%;
-        margin-left: 0px;
-        padding-top: 10px;
-    }
-
-    p {
-       margin-top: -2rem;  
-    }
-
-}
-
-@media screen and (max-width: 480px) {
-    .c {
-        height: 110vh;
-    }
     .c-wrapper {
         flex-direction: column;
         padding: 0px 50px;
@@ -154,7 +96,7 @@ p {
     }
 
     svg {
-        width: 10%;
+        width: 6%;
     }
 
     .c-info-item {
@@ -190,8 +132,4 @@ p {
         padding-left: 10px;
     }
 
-    p {
-       margin-top: 1rem; 
-       font-size: 12px; 
-    }
 }
