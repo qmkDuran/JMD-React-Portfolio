@@ -16,7 +16,7 @@ create more.
 
 ## Link
 
-[Screen Mirroring](https://pedantic-wright-e43044.netlify.app/)
+[React Portfolio](https://pedantic-wright-e43044.netlify.app/)
 ## Authors
 
 - [@qmkDuran](https://github.com/qmkDuran)
