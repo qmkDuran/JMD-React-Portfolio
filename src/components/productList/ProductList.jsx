@@ -24,7 +24,7 @@ const ProductList = () => {
                     Than their is the <a class="blue" href="https://github.com/qmkDuran/Crypto-Project" target="_blank">Crypto Investor App (Github Repo) </a> 
                     which lets you know what the current prices are in the market. 
                     
-                    The last project at the bottom is a <a class="blue" href="https://github.com/qmkDuran/Joke-Generator" target="_blank">Screen Mirror Application (Github Repo). </a> 
+                    The last project at the bottom is a <a class="blue" href="https://github.com/qmkDuran/Screen-Mirroring" target="_blank">Screen Mirror Application (Github Repo). </a> 
                     This application lets you create a mini screen of any displays that you have connected and move it around. 
                 </p>
             </div>
