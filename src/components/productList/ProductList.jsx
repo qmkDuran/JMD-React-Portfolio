@@ -35,7 +35,7 @@ const ProductList = () => {
                         <div className="p-circle"></div>
                         <div className="p-circle"></div>
                     </div>
-                    <a href="https://laughing-swartz-ff3afc.netlify.app/" target="_blank" rel="noreference">
+                    <a href="https://instaverseblog.netlify.app/" target="_blank" rel="noreference">
                         <img src={Img01} alt="" className="p-img" />
                     </a>      
                 </div>
