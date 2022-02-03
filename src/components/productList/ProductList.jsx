@@ -15,14 +15,14 @@ const ProductList = () => {
                 <h1 className="pl-title">Latest Creations</h1>
                 <p className="pl-desc">
                     Below are my most recent projects, the first project is the 
-                    <a class="blue" href="https://github.com/qmkDuran/Instaverse" target="_blank"> Instaverse Blog (Github Repo) </a>,
-                    where you can post images and write a description for that image. 
+                    <a class="blue" href="https://github.com/qmkDuran/Instaverse" target="_blank"> Instaverse Blog (Github Repo)</a>,
+                    where you can post an image and write a description for that image. 
                     
-                    The next project has a woman in a coat, and that is a <a class="blue" href="https://github.com/qmkDuran/E-Commerce-Site" target="_blank"> E-commerce Store Design (Github Repo) </a> 
+                    The next project has a woman in a coat, and this is an <a class="blue" href="https://github.com/qmkDuran/E-Commerce-Site" target="_blank"> E-commerce Store Design (Github Repo) </a> 
                     that sells winter coats. 
                     
-                    Than their is the <a class="blue" href="https://github.com/qmkDuran/Crypto-Project" target="_blank">Crypto Investor App (Github Repo) </a> 
-                    which lets you know what the current prices are in the market. 
+                    Then there is the <a class="blue" href="https://github.com/qmkDuran/Crypto-Project" target="_blank">Crypto Investor App (Github Repo)</a>, 
+                    which lets you know the current prices in the market. 
                     
                     The last project at the bottom is a <a class="blue" href="https://github.com/qmkDuran/Screen-Mirroring" target="_blank">Screen Mirror Application (Github Repo). </a> 
                     This application lets you create a mini screen of any displays that you have connected and move it around. 
