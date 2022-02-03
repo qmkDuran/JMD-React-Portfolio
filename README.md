@@ -16,7 +16,7 @@ create more.
 
 ## Link
 
-[React Portfolio](https://pedantic-wright-e43044.netlify.app/)
+[React Portfolio](https://michaeldportfolio.netlify.app)
 ## Authors
 
 - [@qmkDuran](https://github.com/qmkDuran)
